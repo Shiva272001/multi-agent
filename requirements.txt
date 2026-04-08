@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+langgraph
+langchain-openai
+mcp
+pydantic
+psycopg2-binary
+langgraph
